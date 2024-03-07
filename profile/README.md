@@ -1,4 +1,4 @@
 ## U.S. Naval Research Laboratory Marine Meteorology Division
 
-Geolocated Information Processing System organization:
-* https://github.com/NRLMMD-GEOIPS/
+* [NRL-MMD License](https://github.com/U-S-NRL-Marine-Meteorology-Division/.github/blob/main/profile)
+* [Geolocated Information Processing System organization](https://github.com/NRLMMD-GEOIPS/)
